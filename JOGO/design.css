@@ -1,0 +1,32 @@
+button{
+
+	position: absolute;
+	top: 390px;
+	left:420px;
+	margin: auto;
+	border-radius: 12px;
+	background-color: blue;
+	color: white;
+    padding: 15px 32px;
+}
+body{
+background-image: url("imgfundo.jpg");
+background-repeat: no-repeat;
+
+}
+h1{
+	position: absolute;
+	top: 80px;
+	left:50px;
+	margin: auto;
+	color: Gold ;
+	text-shadow: 2px 1px black;
+	font-family: Comic Sans MS ;
+    font-size: 100px
+}
+#pato{
+	position: absolute;
+	top: 0px;
+	left:763px;
+	margin: auto;
+}
