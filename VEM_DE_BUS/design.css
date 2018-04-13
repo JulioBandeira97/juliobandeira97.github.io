@@ -1,0 +1,57 @@
+tr, td {
+    border: 2px solid black;
+    padding: 10px;
+
+
+}
+
+table {
+	position: absolute;
+	top: 350px;
+	left:900px;
+	border: 3px black;
+	background-color:white;
+}
+
+td  {
+  background-Color: lime;
+  
+}
+
+
+body {
+ background-color: silver;
+}
+
+button{
+
+	position: absolute;
+	top: 450px;
+	left:500px;
+
+	
+}
+
+body{
+background-image: url("fundo2.jpg");
+background-repeat: no-repeat;
+
+}
+
+h2{
+background-color:black;
+color:white;
+position: absolute;
+	top: 260px;
+	left:950px;
+
+}
+
+l{
+
+color:black;
+position: absolute;
+	top: 260px;
+	left:30px;
+
+}
